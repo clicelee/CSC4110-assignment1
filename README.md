@@ -1,4 +1,4 @@
-# Github and git confilct 
+# Github and git
 # WSU CSC 4110 
 ## assignment 1
 >[!note]
